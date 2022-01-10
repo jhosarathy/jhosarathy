@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jhosarathy
-- 👀 I’m interested in data engineering and data analysis
-- 🌱 I’m currently learning Data science tooling in Python and AWS infrastructure services
-- 💞️ I’m looking to collaborate on data science projects in Python
-- 📫 How to reach me jhosarathy [at] gmail [dot] com
+Data Engineer at Cazoo 🚗
 
 <!---
 jhosarathy/jhosarathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
